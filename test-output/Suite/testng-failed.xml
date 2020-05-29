@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="LambdaTest(failed)">
+    <classes>
+      <class name="tests.Real_Money_Page_Test">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- tests.Real_Money_Page_Test -->
+      <class name="tests.Footer_Link_Test">
+        <methods>
+          <include name="footerLinkTest"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="beforeMethod"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.Footer_Link_Test -->
+    </classes>
+  </test> <!-- LambdaTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

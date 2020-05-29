@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="7" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87572" started-at="2020-05-29T13:43:03Z" finished-at="2020-05-29T13:44:31Z">
+    <groups>
+    </groups>
+    <test name="LambdaTest" duration-ms="87572" started-at="2020-05-29T13:43:03Z" finished-at="2020-05-29T13:44:31Z">
+      <class name="tests.Bookie_Selector_Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.Bookie_Selector_Test@6a41eaa2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-05-29T19:14:19Z" finished-at="2020-05-29T19:14:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="bookieSelectorTest()[pri:0, instance:tests.Bookie_Selector_Test@6a41eaa2]" name="bookieSelectorTest" duration-ms="11925" started-at="2020-05-29T19:14:19Z" finished-at="2020-05-29T19:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookieSelectorTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.Bookie_Selector_Test@6a41eaa2]" name="afterMethod" is-config="true" duration-ms="139" started-at="2020-05-29T19:14:30Z" finished-at="2020-05-29T19:14:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.Bookie_Selector_Test -->
+      <class name="tests.Real_Money_Page_Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.Real_Money_Page_Test@685cb137]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2020-05-29T19:14:16Z" finished-at="2020-05-29T19:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="realMoneyPageTest()[pri:0, instance:tests.Real_Money_Page_Test@685cb137]" name="realMoneyPageTest" duration-ms="2235" started-at="2020-05-29T19:14:16Z" finished-at="2020-05-29T19:14:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- realMoneyPageTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.Real_Money_Page_Test@685cb137]" name="afterMethod" is-config="true" duration-ms="101" started-at="2020-05-29T19:14:18Z" finished-at="2020-05-29T19:14:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.Real_Money_Page_Test -->
+      <class name="tests.Footer_Link_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.Footer_Link_Test@6a4f787b]" name="setUp" is-config="true" duration-ms="7490" started-at="2020-05-29T19:12:56Z" finished-at="2020-05-29T19:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.Footer_Link_Test@6a4f787b]" name="beforeMethod" is-config="true" duration-ms="319" started-at="2020-05-29T19:13:03Z" finished-at="2020-05-29T19:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="footerLinkTest()[pri:0, instance:tests.Footer_Link_Test@6a4f787b]" name="footerLinkTest" duration-ms="72177" started-at="2020-05-29T19:13:03Z" finished-at="2020-05-29T19:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerLinkTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.Footer_Link_Test@6a4f787b]" name="afterMethod" is-config="true" duration-ms="606" started-at="2020-05-29T19:14:16Z" finished-at="2020-05-29T19:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.Footer_Link_Test@6a4f787b]" name="tearDown" is-config="true" duration-ms="831" started-at="2020-05-29T19:14:31Z" finished-at="2020-05-29T19:14:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Footer_Link_Test -->
+    </test> <!-- LambdaTest -->
+  </suite> <!-- Suite -->
+</testng-results>

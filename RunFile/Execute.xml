@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="LambdaTest">
+		<classes>
+			<!-- Task 2.1 -->
+			<class name="tests.Footer_Link_Test" />
+			
+			<!-- Task 2.2 -->
+			<class name="tests.Real_Money_Page_Test"/>
+			
+			<!-- Task 2.3 -->
+			<class name="tests.Bookie_Selector_Test"/>
+		</classes>
+	</test>
+</suite>
